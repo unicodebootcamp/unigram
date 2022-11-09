@@ -1,0 +1,67 @@
+{"posts": [
+    {
+      "id": 1,
+      "image": "https://instagram.fyei4-1.fna.fbcdn.net/v/t51.2885-15/299402397_353655106983851_5683106323379283575_n.jpg?stp=dst-jpg_e35&_nc_ht=instagram.fyei4-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=QLlwt8j6zKsAX9R7sD_&edm=ALQROFkBAAAA&ccb=7-5&ig_cache_key=MjkwNjI2NzI3MzMwNTIyMDk0Mg%3D%3D.2-ccb7-5&oh=00_AfD7bhlGEwVpyIXIlEUy1cY5-0AJZtBfAtxJ-Lhj2yI4HQ&oe=636D0BA8&_nc_sid=30a2ef",
+      "likes": 1223,
+      "description": "КОГДА НАБОР НА ОБУЧЕНИЕ В UNICODE❓\uD83E\uDD14\n\nК счастью для нас, к сожалению для тех, кто не успел группа на BOOTCAMP с сентября на декабрь уже сформирована ✔️\n\nПодписывайтесь и следите за событиями, чтобы не упустить важное \uD83D\uDD25",
+      "comments": [
+        {
+          "id": 21,
+          "text": "Сколько стоит обучение?",
+          "user":
+            {
+              "username": "madaev.763",
+              "profile_img": "https://instagram.fyei4-1.fna.fbcdn.net/v/t51.2885-19/293982805_572168997874494_3399826667570097848_n.jpg?stp=dst-jpg_s320x320&_nc_ht=instagram.fyei4-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=OTSelPoYfIUAX89eC87&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfBjHsMyPHSe7PAMyehWlKJOWtW1aWN4UZ67mjDa_F21dw&oe=636EE400&_nc_sid=8fd12b"
+            }
+
+        },
+        {
+          "id": 22,
+          "text": "Ответили в дайрект",
+          "user": [
+            {
+              "username": "askhab.us",
+              "profile_img": "https://instagram.fyei4-1.fna.fbcdn.net/v/t51.2885-19/301629225_5273999146047040_6437693209052703333_n.jpg?stp=dst-jpg_s320x320&_nc_ht=instagram.fyei4-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=Emz_kYLpRw4AX8VFYND&tn=rkmBHFtwOrm4sCgV&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfC1JmrmHwVGmXJtdka2EGVYxgAYWQ_kYeons8bHWx6keA&oe=636DB54F&_nc_sid=8fd12b"
+            }
+          ]
+        }
+      ],
+      "user": {
+        "username": "unicodebootcamp",
+        "profile_img": "https://instagram.fyei4-1.fna.fbcdn.net/v/t51.2885-19/301554891_1154819658804259_3795365245398244524_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fyei4-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=hBJi-UOhCMcAX_mtJCn&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfATxJsiuM3Pqh9bq330Uy4G-vooUzyaLA11kemPuwRpow&oe=636E8B90&_nc_sid=8fd12b"
+      }
+    },
+    {
+      "id": 2,
+      "image": "https://instagram.fyei1-1.fna.fbcdn.net/v/t51.2885-15/298963560_3377750589136438_4859032453090635894_n.jpg?stp=dst-jpg_e35_p1080x1080&_nc_ht=instagram.fyei1-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=-13LFdtIBrMAX_al7DI&tn=rkmBHFtwOrm4sCgV&edm=ALQROFkBAAAA&ccb=7-5&ig_cache_key=MjkwNDY5ODE0MzcxOTUxNTMxOA%3D%3D.2-ccb7-5&oh=00_AfAOq5wVIXDrjmY-kUaxQjMupiaafBNfsXErmjBOuzCDsg&oe=636E3710&_nc_sid=30a2ef",
+      "description": "Самый, наверно, часто задаваемый вопрос, почему именно МАК?\n\nОн даёт вам прекрасную возможность, прийти в любую кофейню и быть нереально пафосным человеком, а без Мака, вы просто программист с ноутбуком.\n\nДругих, объективных причин я не вижу.",
+      "likes": 1345,
+      "comments": [
+        {
+          "id": 24,
+          "text": "Плагиат",
+          "user":
+            {
+              "username": "abdul.mallk",
+              "profile_img": "https://instagram.fyei1-1.fna.fbcdn.net/v/t51.2885-19/271801508_598526478151937_1488940104194464827_n.jpg?stp=dst-jpg_s320x320&_nc_ht=instagram.fyei1-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=cvwmabyV24sAX_U1RH_&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfBFpR83t0eNoyNqzJFFNADE7yw6NFap3MA7zi6V0K29RQ&oe=63700236&_nc_sid=8fd12b"
+            }
+
+        }
+      ],
+      "user": {
+        "username": "unicodebootcamp",
+        "profile_img": "https://instagram.fyei4-1.fna.fbcdn.net/v/t51.2885-19/301554891_1154819658804259_3795365245398244524_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fyei4-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=hBJi-UOhCMcAX_mtJCn&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfATxJsiuM3Pqh9bq330Uy4G-vooUzyaLA11kemPuwRpow&oe=636E8B90&_nc_sid=8fd12b"
+      }
+    },
+    {
+      "id": 3 ,
+      "image": "https://instagram.fyei1-1.fna.fbcdn.net/v/t51.2885-15/275306272_1152847388859504_1046915673823761829_n.jpg?stp=dst-jpg_e35&_nc_ht=instagram.fyei1-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=3rVOMsT0rv8AX-RFOgw&edm=ALQROFkBAAAA&ccb=7-5&ig_cache_key=Mjc4OTQyMDc4OTI2MzQ1MDY5Mg%3D%3D.2-ccb7-5&oh=00_AfD4SbrtKilyWQevTgkOXzUXKxVqX9iMvgv9DfsKhgM5Zw&oe=636EE5A0&_nc_sid=30a2ef",
+      "description": "FRONTEND в 2022 году.\n\nНа данный момент это одна из самых востребованных областей программирования с впечатляющими перспективами. Чтобы понять масштаб, который охватывает frontend-разработка, стоит всего лишь понять, что все что вы видите своими глаза в интернете, то есть вся видимая часть, это входит в frontend-разработку.",
+      "comments": [],
+      "user": {
+        "username": "unicodebootcamp",
+        "profile_img": "https://instagram.fyei4-1.fna.fbcdn.net/v/t51.2885-19/301554891_1154819658804259_3795365245398244524_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fyei4-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=hBJi-UOhCMcAX_mtJCn&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfATxJsiuM3Pqh9bq330Uy4G-vooUzyaLA11kemPuwRpow&oe=636E8B90&_nc_sid=8fd12b"
+      }
+    }
+  ]
+}
