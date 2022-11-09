@@ -1,10 +1,10 @@
 # Instagram clone
 
-## Для запуска приложения сначала запустите:
+### Для запуска приложения сначала вызовите команду:
 
-### `json-server --watch db.json`
+#### `json-server --watch db.json`
 
-## Затем:
+### Затем:
 
-### `npm start`
+#### `npm start`
 
