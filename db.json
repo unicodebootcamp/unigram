@@ -73,5 +73,31 @@
   "profile": {
     "username": "unicodebootcamp",
     "profile_img": "https://lh3.googleusercontent.com/ogw/AOh-ky12LqC-YLK26sIoYQDYhN3-qwG9WsZH4bRj1XCB=s64-c-mo"
-  }
+  },
+  "suggestions": [
+    {
+      "username": "y.edilbiev",
+      "profile_img": "https://instastatistics.com/images/default_avatar.jpg"
+    },
+    {
+      "username": "abdul.mallk",
+      "profile_img": "https://pix10.agoda.net/hotelImages/283/2838308/2838308_17092617350056817195.jpg?ca=6&ce=1&s=1024x768"
+    },
+    {
+      "username": "askhab.us",
+      "profile_img": "https://i.scdn.co/image/ab67616d0000b27377308a8b6fe0925e78b73ec2"
+    },
+    {
+      "username": "madaev.763",
+      "profile_img": "https://fastly.4sqi.net/img/general/width960/166121837_hjhN_QKXUlYnHs2DlegwFhk2ESdi48i1IUB-1XRzImQ.jpg"
+    },
+    {
+      "username": "zelimdemilh",
+      "profile_img": ""
+    },
+    {
+      "username": "madaev_313",
+      "profile_img": ""
+    }
+  ]
 }
